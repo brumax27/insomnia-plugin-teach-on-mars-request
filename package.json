@@ -1,0 +1,23 @@
+{
+  "name": "insomnia-plugin-teach-on-mars-request",
+  "version": "1.0.0",
+  "description": "Make interceptor request for insomnia to request Teach On Mars",
+  "private": false,
+  "insomnia": {
+    "name": "teach-on-mars-request",
+    "description": ""
+  },
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "author": "Brumax27",
+  "engines": {
+    "node": ">=18",
+    "npm": ">=9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brumax27/insomnia-plugin-teach-on-mars-request.git"
+  }
+}
