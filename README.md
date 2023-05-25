@@ -1,6 +1,8 @@
 # Plugin Insomnia Teach On Mars Request
 
-| Properties | Type | Value example |
+To use this plugins, you must define in environment variable insomnia the below variables
+
+| Variables | Type | Value example |
 |------|----|-----|
 | enable-plugin-tom | bool | true / false |
 | tom-secret-key | string | n/a |
