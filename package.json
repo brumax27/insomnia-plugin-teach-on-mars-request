@@ -1,11 +1,11 @@
 {
   "name": "insomnia-plugin-teach-on-mars-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make interceptor request for insomnia to request Teach On Mars",
   "private": false,
   "insomnia": {
     "name": "teach-on-mars-request",
-    "description": ""
+    "description": "Make interceptor request for insomnia to request Teach On Mars"
   },
   "main": "main.js",
   "dependencies": {
